@@ -1,2 +1,3 @@
 Generating a Start file
 Adding one more line to understand branching
+Adding one more line to understand automatic merging
